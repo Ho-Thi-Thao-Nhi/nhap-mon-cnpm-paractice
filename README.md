@@ -5,3 +5,4 @@ Xin chào! đây là lần đầu tiên tôi sử dụng Git và GitHub
 ## Thông tin sinh viên
 -**Họ và tên:** Hồ Thị Thảo Nhi
 -**Mã số sinh viên:** 24S1020054
+
